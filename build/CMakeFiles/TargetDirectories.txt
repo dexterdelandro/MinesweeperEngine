@@ -1,0 +1,12 @@
+C:/msys64/home/dexterdelandro/build/CMakeFiles/SDL3-shared.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/SDL3_test.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/SDL3-docs.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/uninstall.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/package.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/package_source.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/rebuild_cache.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/list_install_components.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/install.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/install/local.dir
+C:/msys64/home/dexterdelandro/build/CMakeFiles/install/strip.dir
